@@ -41,7 +41,25 @@ namespace TodoApi.Controllers
 
     }
 
+    //[ApiController]
+    //[Route("[controller]")]
+    //public class PixooController : ControllerBase
+    //{
+    //    private readonly PixooDeviceController _pixoo;
 
+    //    public PixooController()
+    //    {
+    //        // In echte app zou je IP ophalen uit config of dynamisch zoeken
+    //        _pixoo = new PixooDeviceController("http://192.168.1.123");
+    //    }
+
+    //    [HttpPost("play-sound")]
+    //    public async Task<IActionResult> PlaySound()
+    //    {
+    //        await _pixoo.PlaySoundAsync();
+    //        return Ok();
+    //    }
+    //}
 
 
 }

@@ -63,3 +63,7 @@ GET {{Pixoo16Lib_HostAddress}}/api/divoom/send-gif
 GET {{Pixoo16Lib_HostAddress}}/api/divoom/send-gifRed
 
 ###
+
+POST {{Pixoo16Lib_HostAddress}}/pixoo/play-sound
+
+###
