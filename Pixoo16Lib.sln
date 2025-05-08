@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixoo16Lib", "Pixoo16Lib\Pixoo16Lib.csproj", "{6AFA843E-3B71-4979-B65B-9BBE46481616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixoo", "Pixoo\Pixoo.csproj", "{C9346A74-789E-4710-BA64-37C844B1DF42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AFA843E-3B71-4979-B65B-9BBE46481616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFA843E-3B71-4979-B65B-9BBE46481616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFA843E-3B71-4979-B65B-9BBE46481616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFA843E-3B71-4979-B65B-9BBE46481616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9346A74-789E-4710-BA64-37C844B1DF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9346A74-789E-4710-BA64-37C844B1DF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9346A74-789E-4710-BA64-37C844B1DF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9346A74-789E-4710-BA64-37C844B1DF42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30C24225-ED5B-4CED-A539-D348450D528B}
+	EndGlobalSection
+EndGlobal
