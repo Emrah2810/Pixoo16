@@ -24,3 +24,15 @@ GET {{Pixoo16Lib_HostAddress}}/api/divoom/send-gif
 GET {{Pixoo16Lib_HostAddress}}/api/divoom/send-gifRed
 
 ###
+
+GET {{Pixoo16Lib_HostAddress}}/api/divoom/send-red-gif
+
+###
+
+GET {{Pixoo16Lib_HostAddress}}/api/divoom/send-red-gif
+
+###
+
+GET {{Pixoo16Lib_HostAddress}}/api/divoom/send-default-gif
+
+###

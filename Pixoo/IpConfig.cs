@@ -31,7 +31,7 @@ namespace Pixoo
 
         public static async Task<string> SendHttpGifAsync(int picId, string picData)
         {
-            var url = "http://192.168.1.20:80/post";
+            var url = "http://192.168.1.25:80/post";
 
             var json = $@"
             {{
